@@ -36,5 +36,5 @@ ______________________
 
 ```bash
 npm install
-npm start
+npm start --filepathtocheck='./documents/sample1.txt'
 ```
