@@ -2,6 +2,8 @@ I chose the spellcheck challenge, below are the instructions for how to run my p
 
 I created some samples to test it against in `/documents`, but I imagine you have your own files to test as well. (`sample2.txt` is the original README with some jumbled words)
 
+As stated in the code comments, the spellchecking algorithm is far from perfect, but it's the best I came up with independently within a few hours of work.
+
 Thank you for your consideration!
 
 # Prerequisites
