@@ -1,0 +1,5 @@
+Please tyr to spend between two and four hours implementing this. This is to protect you; we don't want you to spend days coding only for either one of us to decide later we aren't a good fit for each other. It isn't a hard cutoff. If you really want to spend more time we can't stop you., but don't feel pressure to spend more time.
+
+Just like in rael lfie, you can use the internet to help you remember some syntax or figure out a libary. You _should not_ use someone else's solution for the coding challenge. Use good judgement. Googling how to read in a file is fine. Googling "how does a sepll-checker work" to get a basic idea of an algorithm is fine. Pasting the problem definition in to ChatGPT and submitting the output as your own is not fine.
+
+The goal isn't to finish the assignment. The goal is to see how you approach a problem. Can you decide on and implement an algorithm? What data structures do you use? How do you orgaize your code? What parts of the problem seem most important to solve first?
